@@ -1,0 +1,93 @@
+[
+    {
+        "Id": 1,
+        "ActionId": 1,
+        "NextActionId": null,
+        "Type": 101,
+        "IsBlock": null,
+        "IsEnd": null,
+        "BeginAnim": "AniZhuanchangEnd",
+        "EndAnim": null,
+        "BeginDelay": null,
+        "EndDelay": null,
+        "Params": "{1: 'Assets/Product/Texture/Image/BgStory/BgStory14.png'}"
+    },
+    {
+        "Id": 2,
+        "ActionId": 2,
+        "NextActionId": null,
+        "Type": 401,
+        "IsBlock": null,
+        "IsEnd": null,
+        "BeginAnim": null,
+        "EndAnim": null,
+        "BeginDelay": null,
+        "EndDelay": null,
+        "Params": "{1: '1', 2: '36'}"
+    },
+    {
+        "Id": 3,
+        "ActionId": 3,
+        "NextActionId": null,
+        "Type": 301,
+        "IsBlock": null,
+        "IsEnd": null,
+        "BeginAnim": "DialogEnable",
+        "EndAnim": "DialogDisable",
+        "BeginDelay": null,
+        "EndDelay": null,
+        "Params": "{3: '我们的求和引擎从不忽略一个<phonetic=小字注音><color=#ff4e4eff><size=60>数字</size></color></phonetic>，我们的织布机也不曾疏漏一针。一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十'}"
+    },
+    {
+        "Id": 4,
+        "ActionId": 4,
+        "NextActionId": null,
+        "Type": 109,
+        "IsBlock": 1,
+        "IsEnd": null,
+        "BeginAnim": null,
+        "EndAnim": null,
+        "BeginDelay": null,
+        "EndDelay": null,
+        "Params": "{1: '1', 2: '我们的求和引擎从不忽略一个<phonetic=小字注音><color=#ff4e4eff><size=60><i><b>数字</b></i></size></color></phonetic>，我们的织布机也不曾疏漏一针。'}"
+    },
+    {
+        "Id": 5,
+        "ActionId": 5,
+        "NextActionId": null,
+        "Type": 110,
+        "IsBlock": null,
+        "IsEnd": null,
+        "BeginAnim": null,
+        "EndAnim": null,
+        "BeginDelay": null,
+        "EndDelay": null,
+        "Params": "{1: '1'}"
+    },
+    {
+        "Id": 6,
+        "ActionId": 6,
+        "NextActionId": null,
+        "Type": 304,
+        "IsBlock": 1,
+        "IsEnd": null,
+        "BeginAnim": null,
+        "EndAnim": null,
+        "BeginDelay": null,
+        "EndDelay": null,
+        "Params": "{1: '我们的求和引擎从不忽略一个<phonetic=小字注音><color=#ff4e4eff><size=60>数字</size></color></phonetic>，我们的织布机也不曾疏漏一针。', 2: 'ffffffff', 3: '-800', 4: 'Assets/Product/Texture/Image/BgStory/BgStory14.png', 6: '1', 9: '1'}"
+    },
+    {
+        "Id": 7,
+        "ActionId": 7,
+        "NextActionId": null,
+        "Type": 307,
+        "IsBlock": 1,
+        "IsEnd": 1,
+        "BeginAnim": null,
+        "EndAnim": "AniZhuanchangBegin",
+        "BeginDelay": null,
+        "EndDelay": null,
+        "Params": "{1: '我们的求和引擎从不忽略一个<phonetic=小字注音><color=#ff4e4eff><size=60>数字</size></color></phonetic>，我们的织布机也不曾疏漏一针。'}"
+    }
+]
