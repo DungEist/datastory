@@ -62,7 +62,7 @@
         "EndAnim": null,
         "BeginDelay": null,
         "EndDelay": null,
-        "Params": "{2: 'Joanne', 3: 'Ahem... Lucia, Commandant. By the time you hear this recording, well... everyone probably knows already.', 18: '100017462'}"
+        "Params": "{2: 'Joanne', 3: 'Ahem... Lucia, 【kuroname】. By the time you hear this recording, well... everyone probably knows already.', 18: '100017462'}"
     },
     {
         "Id": 6,
@@ -153,7 +153,7 @@
         "EndAnim": null,
         "BeginDelay": null,
         "EndDelay": null,
-        "Params": "{2: 'Ophelia', 3: 'Ahem. Lucia, Commandant.', 18: '100017470'}"
+        "Params": "{2: 'Ophelia', 3: 'Ahem. Lucia, 【kuroname】.', 18: '100017470'}"
     },
     {
         "Id": 13,
@@ -296,7 +296,7 @@
         "EndAnim": null,
         "BeginDelay": null,
         "EndDelay": null,
-        "Params": "{2: 'Joanne', 3: 'Anyway, uh, Lucia, Commandant—just say yes to each other already! We\\'re all rooting for you!', 18: '100017482'}"
+        "Params": "{2: 'Joanne', 3: 'Anyway, uh, Lucia, 【kuroname】—just say yes to each other already! We\\'re all rooting for you!', 18: '100017482'}"
     },
     {
         "Id": 24,
@@ -348,7 +348,7 @@
         "EndAnim": null,
         "BeginDelay": null,
         "EndDelay": null,
-        "Params": "{2: 'Joanne', 3: 'Before we go, all the best to you, Commandant!', 18: '100017487'}"
+        "Params": "{2: 'Joanne', 3: 'Before we go, all the best to you, 【kuroname】!', 18: '100017487'}"
     },
     {
         "Id": 28,
