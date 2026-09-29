@@ -2092,11 +2092,11 @@
     "background": "image/rolecharacter/roleheadr3adelaide1",
     "bgUrl": "/pgr_assets/product/texture/image/rolecharacter/roleheadr3adelaide1.webp"
   },
-  "1_1044": {
-    "catId": 1,
-    "chapId": 1044,
-    "name": "44 (Upcoming)",
-    "background": "image/uifubenmaintabchapter/instanceiconpic43",
-    "bgUrl": "/pgr_assets/product/texture/image/uifubenmaintabchapter/instanceiconpic43.webp"
+  "10_9000006": {
+    "catId": 10,
+    "chapId": 9000006,
+    "name": "Dream of Stagnant Cycle",
+    "background": "image/bgcg/cg6801_1",
+    "bgUrl": "/pgr_assets/product/texture/image/bgcg/cg6801_1.webp"
   }
 }

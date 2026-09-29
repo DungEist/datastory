@@ -12791,5 +12791,86 @@
     "storyIds": [
       "ZX02012BA"
     ]
+  },
+  {
+    "category": "10",
+    "chapterId": 9000006,
+    "chapterTitle": "Dream of Stagnant Cycle",
+    "stageNum": "Collab-1",
+    "stageTitle": "Where the Dream Starts",
+    "storyIds": [
+      "ZX07001BA"
+    ]
+  },
+  {
+    "category": "10",
+    "chapterId": 9000006,
+    "chapterTitle": "Dream of Stagnant Cycle",
+    "stageNum": "Collab-2",
+    "stageTitle": "Daydream Streets",
+    "storyIds": [
+      "ZX07002BA"
+    ]
+  },
+  {
+    "category": "10",
+    "chapterId": 9000006,
+    "chapterTitle": "Dream of Stagnant Cycle",
+    "stageNum": "Collab-3",
+    "stageTitle": "Happiness or Embers",
+    "storyIds": [
+      "ZX07003BA"
+    ]
+  },
+  {
+    "category": "10",
+    "chapterId": 9000006,
+    "chapterTitle": "Dream of Stagnant Cycle",
+    "stageNum": "Collab-4",
+    "stageTitle": "Fleeting Fireworks",
+    "storyIds": [
+      "ZX07004BA"
+    ]
+  },
+  {
+    "category": "10",
+    "chapterId": 9000006,
+    "chapterTitle": "Dream of Stagnant Cycle",
+    "stageNum": "Collab-5",
+    "stageTitle": "To Be Myself",
+    "storyIds": [
+      "ZX07005BA"
+    ]
+  },
+  {
+    "category": "10",
+    "chapterId": 9000006,
+    "chapterTitle": "Dream of Stagnant Cycle",
+    "stageNum": "Collab-6",
+    "stageTitle": "Android and Electric Sheep",
+    "storyIds": [
+      "ZX07006BA"
+    ]
+  },
+  {
+    "category": "10",
+    "chapterId": 9000006,
+    "chapterTitle": "Dream of Stagnant Cycle",
+    "stageNum": "Collab-7",
+    "stageTitle": "Shatter the Nightmare",
+    "storyIds": [
+      "ZX07007BA",
+      "ZX07007EA"
+    ]
+  },
+  {
+    "category": "10",
+    "chapterId": 9000006,
+    "chapterTitle": "Dream of Stagnant Cycle",
+    "stageNum": "Collab-8",
+    "stageTitle": "To the World You Love",
+    "storyIds": [
+      "ZX07008BA"
+    ]
   }
 ]
